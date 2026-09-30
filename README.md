@@ -2,10 +2,10 @@
 
 FabWeave is a dependency-light Python reference project for semiconductor-fab
 operations.  Its production modules model queue-time protection, dispatch,
-reticle reservations, recipe qualification, SPC, metrology sampling,
-maintenance, chamber matching, holds, genealogy, chemical aging, cleanroom
-excursions, demand control, rework, lot merging, equipment dedication,
-contamination, takt, route yield and shipment commitments.
+reticle reservations, recipe qualification, operator training qualification,
+SPC, metrology sampling, maintenance, chamber matching, holds, genealogy,
+chemical aging, cleanroom excursions, demand control, rework, lot merging,
+equipment dedication, contamination, takt, route yield and shipment commitments.
 
 The cross-domain workflow layer composes these services for material
 readiness, dispatch-after-hold, qualified reservations and assignments,
